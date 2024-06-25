@@ -1,0 +1,30 @@
+# Node.js dependencies
+**/node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+
+# Environment variables
+.env
+
+# Build outputs
+dist/
+build/
+
+# Coverage directory used by testing tools
+coverage/
+
+# IDE and editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
